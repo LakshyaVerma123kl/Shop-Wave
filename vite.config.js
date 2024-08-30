@@ -2,6 +2,6 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/Shop-Wave/", // Set this to your repository name
+  base: "/Shop-Wave/", // Correctly set to your repository name
   plugins: [react()],
 });
